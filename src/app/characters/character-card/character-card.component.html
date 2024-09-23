@@ -2,5 +2,6 @@
     <div class="character_card" *ngFor="let character of character_list" >
         <h2> {{character.nombre}} </h2>
         <p> {{character.descripcion}} </p>
+        <img [src]="character.imagenUrl" alt="{{ character.nombre }}">
     </div>
 </div>
