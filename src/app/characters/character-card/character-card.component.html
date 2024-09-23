@@ -1,1 +1,6 @@
-<p>character-card works!</p>
+<div class="cards">
+    <div class="character_card" *ngFor="let character of character_list" >
+        <h2> {{character.nombre}} </h2>
+        <p> {{character.descripcion}} </p>
+    </div>
+</div>
