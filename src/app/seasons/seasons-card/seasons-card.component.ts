@@ -7,7 +7,7 @@ import { IUseason } from '../iuseason';
   styleUrl: './seasons-card.component.css'
 })
 export class SeasonsCardComponent {
-  users_list: IUseason[] = [
+  season_list: IUseason[] = [
     {
       nombre: 'Temporada 1',
       descripcion: 'La primera temporada de Good Omens sigue la alianza improbable entre Aziraphale, un ángel algo quisquilloso, y Crowley, un demonio sarcástico y rebelde. Ambos han vivido en la Tierra durante milenios y han llegado a disfrutar de su vida entre los humanos. Sin embargo, su rutina se ve alterada cuando se dan cuenta de que el Apocalipsis está cerca, ya que el Anticristo ha nacido y está destinado a desatar el fin del mundo. Aziraphale y Crowley, que no están interesados en el Armagedón y la destrucción de la Tierra, deciden unir fuerzas para evitar que los planes divinos y diabólicos sigan adelante. A lo largo de seis episodios llenos de humor negro, ambos intentan localizar al joven Anticristo, que ha sido criado en una familia humana común y que aún no es consciente de sus poderes. Mientras tanto, una serie de personajes sobrenaturales, como ángeles, demonios y cazadores de brujas, también intervienen en los eventos.' 

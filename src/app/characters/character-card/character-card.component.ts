@@ -8,7 +8,7 @@ import { IUcharacter } from '../iucharacter';
 })
 export class CharacterCardComponent {
 
-  users_list: IUcharacter[] = [
+  character_list: IUcharacter[] = [
     {
       nombre: 'Aziraphale',
       descripcion: 'Aziraphale intenta evitar el apocalipsis porque ha llegado a querer a los humanos y a disfrutar de su vida en la Tierra. Para empezar, aquí hay restaurantes. Además, no le resulta muy atractiva la idea de escuchar Sonrisas y Lágrimas durante toda la eternidad. Es el mejor amigo y el alma gemela (platónica y/o romántica) de Crowley.' 
