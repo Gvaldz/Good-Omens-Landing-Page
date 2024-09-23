@@ -1,0 +1,31 @@
+.cards{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-between;
+}
+
+.text{
+    width: 45%;
+}
+
+.character_card{
+    display: flex;
+    flex-wrap: wrap;
+    width: 45%;
+    justify-content: space-around;   
+    margin-top: 50px; 
+    border: solid 1px;
+    border-radius: 5px;
+}
+
+.img{
+    width: 40%;
+    margin-top: 25px;
+}
+
+#character{
+    width: 100%;
+    height: 90%;
+}

@@ -42,7 +42,7 @@ export class CharacterCardComponent {
     {
       nombre: 'Newton Pulsifer',
       descripcion: 'Newton es descendiente del Cazador de Brujas Pulsifer, que quemó en la hoguera a Agnes Nutter, antepasada de Anatema. Cuando era joven, intentó arreglar el ordenador familiar, pero accidentalmente dejó sin electricidad a todo el pueblo.',
-      imagenUrl: 'New.webp' 
+      imagenUrl: 'Newt.webp' 
     },
     {
       nombre: 'Anathema Device',
