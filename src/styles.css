@@ -1,3 +1,16 @@
 body{
     background-color: #FFFFEF;
 }
+
+p{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+}
+
+h2{
+    font-family: "Hubballi", sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    font-style: normal;
+  }
