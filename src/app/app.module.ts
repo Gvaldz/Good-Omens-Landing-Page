@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { SeasonsCardComponent } from './seasons/seasons-card/seasons-card.component';
 import { CharacterCardComponent } from './characters/character-card/character-card.component'; 
 import { FooterComponent } from './footer/footer.component';
+import { HeaderComponent } from './header/header.component';
+import { ButtonsDivComponent } from './buttons-div/buttons-div.component';
 
 @NgModule({
   declarations: [
@@ -13,6 +15,8 @@ import { FooterComponent } from './footer/footer.component';
     SeasonsCardComponent,
     CharacterCardComponent,
     FooterComponent,
+    HeaderComponent,
+    ButtonsDivComponent,
   ],
   imports: [
     BrowserModule,
