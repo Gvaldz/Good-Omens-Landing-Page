@@ -14,4 +14,11 @@ h2{
     font-family: "Hubballi", sans-serif;
     font-style: normal;
     text-align: center;
-  }
+}
+
+h1{
+    font-family: "Hubballi", sans-serif;
+    font-style: normal;
+    text-align: center;
+    font-size: 60px;
+}
