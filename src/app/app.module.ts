@@ -14,7 +14,7 @@ import { HeaderComponent } from './header/header.component';
     SeasonsCardComponent,
     CharacterCardComponent,
     FooterComponent,
-    HeaderComponent
+    HeaderComponent,
   ],
   imports: [
     BrowserModule,

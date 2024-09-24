@@ -1,0 +1,35 @@
+.cards{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.text{
+    width: 55%;
+}
+
+p{
+    font-size: large;
+}
+
+h2{
+    font-size: 50px;
+}
+
+.season_card{
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    justify-content: space-between;   
+    margin-top: 50px; 
+}
+
+.img{
+    width: 25%;
+    margin-top: 25px;
+}
+
+#season{
+    width: 100%;
+}

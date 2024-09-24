@@ -1,8 +1,12 @@
 <div class="cards">
     <div class="season_card" *ngFor="let season of season_list" >
-        <h2> {{season.nombre}} </h2>
-        <p> {{season.descripcion}} </p>
-        <img [src]="season.imagenUrl" alt="{{ season.nombre }}">
+        <div class="text">
+            <h2> {{season.nombre}} </h2>
+            <p> {{season.descripcion}} </p>
+        </div>
+        <div class="img">
+            <img [src]="season.imagenUrl" alt="{{ season.nombre }}" id="season">
+        </div>
 
     </div>
 </div>
