@@ -5,13 +5,13 @@
         </div>
         <div class="text">
             <h2> {{season1.nombre}} </h2>
-            <p> {{season1.descripcion}} </p>
+            <div [innerHTML]="season1.descripcion"></div>
         </div>
     </div>
     <div class="season_card"  >
         <div class="text">
             <h2> {{season2.nombre}} </h2>
-            <p> {{season2.descripcion}} </p>
+            <div [innerHTML]="season2.descripcion"></div>
         </div>
         <div class="img">
             <img [src]="season2.imagenUrl" alt="{{ season2.nombre }}" id="season">
