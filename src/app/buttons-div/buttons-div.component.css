@@ -11,8 +11,9 @@ button{
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     text-align: center;
-    font-size: medium;
-    width: 10%;
+    font-weight: 800;
+    font-size: large;
+    width: 12%;
     border-radius: 5px;
     border: 0;
     height: 100%;
