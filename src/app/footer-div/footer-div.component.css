@@ -1,0 +1,19 @@
+div{
+    width: 40%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    width: 40px;
+}
+
+.p{
+    width: 100%;
+}

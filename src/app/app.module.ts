@@ -8,6 +8,7 @@ import { CharacterCardComponent } from './characters/character-card/character-ca
 import { FooterComponent } from './footer/footer.component';
 import { HeaderComponent } from './header/header.component';
 import { ButtonsDivComponent } from './buttons-div/buttons-div.component';
+import { FooterDivComponent } from './footer-div/footer-div.component';
 
 @NgModule({
   declarations: [
@@ -17,6 +18,7 @@ import { ButtonsDivComponent } from './buttons-div/buttons-div.component';
     FooterComponent,
     HeaderComponent,
     ButtonsDivComponent,
+    FooterDivComponent,
   ],
   imports: [
     BrowserModule,

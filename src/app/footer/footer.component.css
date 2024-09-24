@@ -1,0 +1,12 @@
+#div{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+div{
+    width: 100%;
+    height: 180px;
+    background-color: #FFF7D9;
+}
